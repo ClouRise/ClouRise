@@ -29,7 +29,7 @@ I first started learning to code 6 years ago. The first language was c++, but it
 
 </p>
 
-<p align="center">
+
 <a href="http://www.github.com/ClouRise"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ClouRise&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
