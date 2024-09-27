@@ -25,7 +25,7 @@ I first started learning to code 6 years ago. The first language was c++, but it
 
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/arduino-plain-wordmark.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/arduino-original-wordmark.svg" width="36" height="36" alt="Arduino" /></a>
 
 </p>
 
