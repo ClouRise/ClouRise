@@ -1,6 +1,6 @@
 ![Header](https://github.com/ClouRise/ClouRise/blob/main/assets/head.png)
 
-Hi 👋 My name is Boris
+Hi there 👋 
 ======================
 
 
@@ -30,12 +30,7 @@ I first started learning to code 6 years ago. The first language was c++, but it
 </p>
 
 
-
-### Stats
-
-
-<a href="http://www.github.com/ClouRise"><img src="https://github-readme-stats.vercel.app/api?username=ClouRise&show_icons=true&hide=&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="ClouRise's GitHub stats" /></a>
-
+<p align="center">
 <a href="http://www.github.com/ClouRise"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ClouRise&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Socials
