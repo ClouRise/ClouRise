@@ -34,8 +34,9 @@ I first started learning to code 6 years ago. The first language was c++, but it
 
 <p align="left"> <a href="https://discord.com/users/ClouRise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ClouRise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### My stats
+### Badges
 
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ClouRise"><img src="https://github-readme-stats.vercel.app/api?username=ClouRise&show_icons=true&hide=&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="ClouRise's GitHub stats" /></a>
 
