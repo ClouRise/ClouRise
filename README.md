@@ -41,7 +41,9 @@ I first started learning to code 6 years ago. The first language was c++, but it
 
 <a href="https://github.com/ClouRise" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClouRise&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-</div><br /><br /><br /><br /><br /><br /><br />
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Socials
 
