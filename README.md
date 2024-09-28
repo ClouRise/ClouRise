@@ -4,7 +4,7 @@ Hi there 👋
 ======================
 
 
-I first started learning to code 6 years ago. The first language was c++, but it seemed very difficult to me at that time. A year later, I decided to try game development, so I started actively learning c#. 3 years ago, I participated in a hackathon for the first time, thanks to him I got a little experience working with HTML, CSS and JavaScript
+I first started learning to code in 2018. The first language was c++, but it seemed very difficult to me at that time. A year later, I decided to try game development, so I started actively learning c#. 3 Years later , I participated in a hackathon for the first time, thanks to him I got a little experience working with HTML, CSS and JavaScript
 
 
 
