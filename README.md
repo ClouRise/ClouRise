@@ -13,20 +13,18 @@ I first started learning to code in 2018. The first language was c++, but it see
 
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/csharp-original.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/python-original.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/django-plain.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://docs.unity.com" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/unity-original.svg" width="36" height="36" alt="Unity" /></a>
 </p>
 
 ### Know a bit
-
 <p align="left">
-<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://github.com/ClouRise/ClouRise/blob/main/assets/arduino-original-wordmark.svg" width="36" height="36" alt="Arduino" /></a>
-
 </p>
 
 
